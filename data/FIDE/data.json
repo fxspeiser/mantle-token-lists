@@ -1,0 +1,25 @@
+{
+  "name": "FIDE AI",
+  "symbol": "FIDE",
+  "decimals": 18,
+  "description": "FIDE AI Token is the bridge between humans and AI systems. FIDE AI allows users to improve or compete with predictive neural networks in real time to enhance stability, predictability and yield in financial markets.",
+  "website": "https://token.metafide.io",
+  "twitter": "@FIDE_AI",
+  "tokens": {
+    "ethereum": {
+      "address": "0x6c5fA4266e51FA2D7E11523CAAA83cF8B8CEa9Fd"
+    },
+    "mantle": {
+      "address": "0x6c5fA4266e51FA2D7E11523CAAA83cF8B8CEa9Fd"
+    }
+  },
+  "tickers": {
+    "coingecko": ""
+  },
+  "extensions": {
+    "thirdparty": {
+      "name": "",
+      "url": ""
+    }
+  }
+}
